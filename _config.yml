@@ -9,7 +9,8 @@ name: Kailea Lee
 description: COMPUTER SCIENCE STUDENT
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: (Profile Picture.png)
+avatar: ![Profile Picture.png]({{ site.baseurl }}/images/Profile Picture.png)
+
 
 
 #
