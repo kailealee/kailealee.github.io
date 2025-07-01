@@ -1,4 +1,4 @@
-***Stepping into Open Source: My Journey Begins!***
+****Stepping into Open Source: My Journey Begins!****
 
 
 avatar: https://avatars.githubusercontent.com/u/kailealee?v=4
