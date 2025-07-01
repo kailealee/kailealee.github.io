@@ -1,4 +1,4 @@
-****Stepping into Open Source: My Journey Begins!****
+**Stepping into Open Source: My Journey Begins!**
 
 
 ![School Picture.png]({{ site.baseurl }}/images/School Picture.png)
