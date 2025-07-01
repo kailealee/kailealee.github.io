@@ -4,7 +4,7 @@ title: Stepping into Open Source: My Journey Begins!
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+[(https://avatars.githubusercontent.com/u/kailealee?v=4)]
 
 My name is Kailea Lee, and I’m from Louisiana. I’m currently a senior at Southern University and A&M College majoring in Computer Science with a concentration in Cybersecurity. I'm passionate about technology, digital forensics, and exploring how emerging innovations impact the world around us. Outside of the classroom, I stay active in research, student organizations, and mentorship programs that help me grow as a scholar and future professional.
 
