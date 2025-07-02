@@ -4,7 +4,7 @@
 ![School Picture.png]({{ site.baseurl }}/images/School Picture.png)
 
 
-Hi! My name is Kailea Lee, and I’m from Louisiana. I’m currently a senior at Southern University and A&M College majoring in Computer Science with a concentration in Cybersecurity 🔐. I'm passionate about technology, digital forensics 🧪, and exploring how emerging innovations impact the world around us. Outside of the classroom, I stay active in research 🔍, student organizations , and mentorship programs  that help me grow as a scholar and future professional.
+Hi! My name is Kailea Lee, and I’m from Louisiana. I’m currently a senior at [Southern University and A&M College](https://www.subr.edu/) majoring in Computer Science with a concentration in Cybersecurity 🔐. I'm passionate about technology, digital forensics 🧪, and exploring how emerging innovations impact the world around us. Outside of the classroom, I stay active in research 🔍, student organizations , and mentorship programs  that help me grow as a scholar and future professional.
 
 I don’t have any prior experience with open source, but I’m excited to dive into it for the first time this summer . I’ve heard a lot about how open source projects create opportunities for learning 📚, collaboration , and building real-world skills , and I’m looking forward to gaining hands-on experience. This will be a valuable chance for me to explore the community, contribute to meaningful projects, and grow as a developer 💻.
 
