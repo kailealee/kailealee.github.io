@@ -4,6 +4,10 @@ title: "Motivation:Solving Cybersecurity Gaps in Emerging Tech"
 date: 2025-07-06
 ---
 
+![Blog Picture 2.png]({{ site.baseurl }}/images/Blog Picture 2.png)
+
+
+
 One major challenge I want to impact with technology in my lifetime is improving cybersecurity in emerging technologies, especially as it relates to virtual reality and connected vehicles. As we integrate immersive tech and smart infrastructure into daily life, the risk of data breaches, unauthorized access, and malicious exploitation increases. I want to develop solutions that protect users' privacy and safety, especially in areas where existing cybersecurity frameworks fall short.
 
 If I’m successful, the first person I would want to tell is my late grandmother. She always believed in me and pushed me to work hard and dream big. Sharing that accomplishment with her would mean everything to me.
