@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solving Cybersecurity Gaps in Emerging Tech"
+title: "Motivation:Solving Cybersecurity Gaps in Emerging Tech"
 date: 2025-07-06
 ---
 
