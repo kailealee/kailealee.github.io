@@ -10,4 +10,4 @@ If I’m successful, the first person I would want to tell is my late grandmothe
 
 I came across an open source project called [Open Cybersecurity Alliance (OCA)](https://github.com/opencybersecurityalliance) which focuses on building unified, interoperable cybersecurity tools. Another relevant project is [Autoware](https://github.com/autowarefoundation/autoware.ai), an open-source software stack for autonomous vehicles, where securing communication systems is a critical concern.
 
-Using what I’ve learned about open source—especially around community engagement and documentation, these projects could be great learning opportunities and potential contributions down the line. They align with my passions and would let me both expand my skills and have real-world impact.
+Using what I’ve learned about open source, especially around community engagement and documentation, these projects could be great learning opportunities and potential contributions down the line. They align with my passions and would let me both expand my skills and have real-world impact.
