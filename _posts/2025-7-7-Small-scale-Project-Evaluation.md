@@ -16,4 +16,4 @@ Installing Scorecard seems relatively simple for anyone familiar with the comman
 
 Communication among developers appears to happen primarily through GitHub itself, via issue comments, pull request discussions, and community engagement on the repository. While there may be other channels like Slack or mailing lists, they aren’t publicly listed in the repository.
 
-One of the most interesting takeaways from this exercise was learning how tools like Scorecard automate the process of evaluating software security. It highlights how security isn’t just about code—it’s also a
+One of the most interesting takeaways from this exercise was learning how tools like Scorecard automate the process of evaluating software security. It highlights how security isn’t just about code—it’s also about the processes and practices that surround development. This kind of insight is valuable for anyone working in or studying cybersecurity and open-source software.
