@@ -4,6 +4,8 @@ title: "Evaluating the OpenSSF Scorecard Project"
 date: 2025-07-07
 ---
 
+openssf_security_compressed.png
+
 This week in lab, we explored a project called [OpenSSF Scorecard](https://github.com/ossf/scorecard). It’s a tool designed to check the security of open-source GitHub repositories. Scorecard runs a set of automated checks and gives each project a score based on how well it follows best security practices. Some of the things it looks at include whether the project uses branch protection, reviews code before merging, and keeps dependencies up to date. The idea is to give people a quick sense of whether a project is safe to use or contribute to.
 
 The project is maintained by the Open Source Security Foundation and has over 80 contributors. However, most of the recent work seems to come from a smaller group of active maintainers. From looking at the activity on GitHub, it’s clear the project is being regularly updated, with new issues and pull requests coming in and getting addressed pretty often.
