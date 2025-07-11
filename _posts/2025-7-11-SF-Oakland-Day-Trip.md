@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day in San Francisco and Oakland"
-date: 2025-07-010
+date: 2025-07-10
 ---
 
 Yesterday, July 10, I had an incredible day exploring the tech scene in San Francisco and Oakland! We kicked things off with a visit to GitHub, where 🇵🇷 [PJ Metz](https://www.linkedin.com/in/metzinaround/) gave us a tour and shared his journey and insights into the tech world. It was inspiring to see how collaboration, creativity, and community drive innovation at such a large scale.
