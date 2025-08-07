@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflections as a Contributor Catalyst Fellow: OpenSSF Experience"
-date: 2025-08-08
+date: 2025-08-07
 ---
 
 Nearly eight weeks ago, I set a personal goal of becoming more confident in contributing to open-source codebases by learning how to engage with issues, write clear documentation, and push meaningful contributions. Coming into this program, I had no experience with collaborative development, especially at the scale and impact level of a project like OpenSSF Scorecard. I wanted to overcome the initial intimidation and uncertainty I often felt when approaching large GitHub repositories. Through consistent practice, team collaboration, and mentorship, I hoped to walk away with a better understanding of how open source ecosystems work and the confidence to continue contributing beyond the program.
